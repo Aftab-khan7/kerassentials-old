@@ -1,0 +1,85 @@
+
+@media (min-width: 1300px) {
+    .product-logo {
+        max-width: 1150px;
+    }
+}
+
+/*  */
+
+@media (max-width: 1023px) {
+    
+   .kera-order-info{
+    display: inline;
+    margin-top: 30px;
+   }
+   .order-list{
+    display: inline;
+   }
+   .kerassentials-hero{
+    display: inline;
+    
+   }
+   .kerassentials-left {
+    width: 100%;
+    margin: 0;
+   
+   }
+   .kerassentials-left img{
+    margin-top: 80px;
+   }
+   .kerassentials-right{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+   }
+   .discovery{
+     display: inline;
+     align-items: center;
+     justify-content: center;
+     
+   }
+   .sd-left{
+    width: 90%;
+    margin: auto;
+    padding: 50px 0px;
+   }
+   .sd-right{
+    width: 80%;
+    margin: auto;
+   }
+   .created-bg{
+    height: 800px;
+   }
+.why-kerassentials{
+  display: inline;
+  margin: 50px 20px 50px 20px;
+  padding: 70px;
+
+  
+  
+}
+.wk-right{
+  text-align: center;
+}
+
+.wk-right img{
+    margin-top: 30px;
+    width: 100%;
+   
+}
+
+
+ 
+}
+
+
+
+/*    */
+
+@media (max-width: 600px) {
+  .why-kerassentials{
+    padding: 30px 5px 30px 5px;
+ }
+
+}
