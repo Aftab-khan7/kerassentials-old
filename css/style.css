@@ -226,6 +226,7 @@ margin: 3rem 0rem 0rem 0rem;
     padding-top: 30px;
     line-height: 1.7rem;
     color: #4d4d4d;
+    padding-left: 52px;
     
 }
 
@@ -236,5 +237,210 @@ margin: 3rem 0rem 0rem 0rem;
 }
 
 /*  */
+.kerassentials-ingredients{
+   padding-top: 5rem;
+}
+
+.kerassentials-ingredients h1,.kerassentials-ingredients p{
+     text-align: center;
+}
+
+.kerassentials-ingredients h1{
+    font-size: 2.3rem;
+    
+}
+
+.kerassentials-ingredients-discription p {
+    font-size: 1.8rem;
+    font-weight: 100;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 15px;
+}
+
+.ingredients-items{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 50px 15px;
+    
+
+}
+.ingredients-items-new{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 50px 15px;
+    
+}
+
+
+.oil-image{
+    text-align: center;
+}
+
+.oil-image img{
+    max-height: 210px;
+    
+}
+
+.ingredients-discription h4{
+    background-color: rgb(39, 39, 39);
+    color: #fff;
+    font-weight: 600;
+    border-radius: 7px;
+    padding:9px 0px;
+    font-size: 1.42rem;
+    margin-bottom: 15px;
+    width: 359px;
+    text-align: center;
+}
+
+
+.list-img img{
+    max-height: 27px;
+   
+
+}
+
+.kerassentials-list {
+    display: flex;
+    align-items: center;
+
+}
+.kerassentials-list-discription p{
+    padding: 0px 7px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+/*   */
+
+.kerassentials-specification-bg{
+    position: top center;
+    background: no-repeat;
+    height: 400px;
+    width: auto;
+    background-image: url(../images/mint-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    padding-top: 50px;
+    
+}
+.kerassentials-specification-discription{
+    background-color: #fff;
+    width: 90%;
+    padding: 3rem 4rem 3rem 4rem;
+    margin: auto;
+    
+}
+
+.kerassentials-specification-discription h1{
+    font-size: 3rem;
+    text-align: center;
+    padding-bottom: 2rem;
+}
+.kerassentials-list-discription p{
+    font-size: 1.5rem;
+}
+
+.kerassentials-dis{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.kerassentials-dis-info img{
+    max-height: 3.2rem;
+}
+
+/*   */
+
+.kerassentials-users-section{
+    padding-top: 4rem;
+}
+
+.kerassentials-users-heading{
+    font-size: 1.7rem;
+    text-align: center;
+    line-height: 2.8rem;
+
+}
+
+.kerassentials-users-images{
+    width: 78%;
+    margin: auto;
+}
+
+.kerassentials-users-images img{
+    max-height: 231px;
+    width: 100%;
+    margin: auto;
+    
+}
+.kerassentials-users-images-mob img{
+    display: none;
+    max-height: 431px;
+    width: 100%;
+    margin: auto;
+}
+
+
+.kerassentials-reviewone{
+    width: 75%;
+    margin: auto;
+    display: flex;
+    justify-content: start;
+    padding-top: 30px;
+    padding-bottom: 30px;
+ 
+}
+
+.kerassentials-review-image img{
+    max-height: 90px;
+}
+
+.kerassentials-review-discription {
+    padding-left: 30px;
+}
+
+.kerassentials-review-heading h1{
+    font-size: 2.0rem;
+    font-weight: 100;
+}
+.kerassential-review-verifcation{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-top: 16px;
+}
+.kerassential-verified-purchase p{
+    font-weight: 600;
+    font-size: 1rem;
+    padding-left: 0.9rem;
+}
+
+
+.kerassentials-verifcation-image img{
+    max-height: 20px;
+}
+.kerassentials-reviews-text p{
+    font-size: 1.7rem;
+    font-weight: 100;
+    padding-top: 10px;
+    font-family:'Roboto' 'Arial Narrow', Arial, sans-serif;
+    color: #555454;
+    line-height: 2.5rem;
+    
+}
+
+.kerassentials-review-country{
+    font-size: 1.25rem;
+    padding-top: 15px;
+}
+
+
+
 
 

@@ -3,7 +3,21 @@
     .product-logo {
         max-width: 1150px;
     }
+
+
+
+
+
+
 }
+
+
+
+
+
+
+
+
 
 /*  */
 
@@ -68,6 +82,70 @@
     width: 100%;
    
 }
+.wk-left p{
+  padding-left: 10px;
+}
+.ingredients-items {
+  display: inline;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.ingredients-items-new {
+  display: inline;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.ingredients-discription{
+  width: 60%;
+  margin: auto;
+}
+
+.ingredients-discription h4 {
+  width: 100%;
+  
+}
+.kerassentials-specification-bg{
+  height: 660px;
+}
+
+
+
+.kerassentials-dis{
+  display: inline;
+}
+.kerassentials-users-images img{
+  display: none;
+}
+.kerassentials-users-images-mob img{
+  display: block;
+  max-height: 431px;
+    width: 100%;
+    margin: auto;
+}
+
+
+.kerassentials-users-heading{
+  font-size: 1rem;
+  text-align: center;
+  line-height: 2.8rem;
+
+}
+
+
+
+.kerassentials-reviewone{
+  width: 95%;
+  
+}
+
+
+
+
+
+
 
 
  
@@ -80,6 +158,50 @@
 @media (max-width: 600px) {
   .why-kerassentials{
     padding: 30px 5px 30px 5px;
- }
+ 
+  }
+  
+
+  
+.wk-left p{
+  padding-left: 0px;
+}
+
+
+.ingredients-discription{
+  width: 80%;
+  
+  
+}
+.kerassentials-specification-bg{
+  height: 550px;
+}
+
+
+.kerassentials-specification-discription{
+  width: 95%;
+  padding: 1.9rem 1.2rem 1.2rem 1.2rem;
+  margin: auto;
+  
+}
+
+.kerassentials-specification-discription h1{
+  font-size: 2.3rem;
+  text-align: center;
+  padding-bottom: 2rem;
+}
+
+.kerassentials-list-discription p {
+  padding: 0px;
+}
+
+.kerassentials-review-image{
+  display: none;
+}
+
+
+
+
+
 
 }
