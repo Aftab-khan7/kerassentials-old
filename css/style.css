@@ -442,5 +442,187 @@ margin: 3rem 0rem 0rem 0rem;
 
 
 
+/*   */
+.kerassentials-order-heading{
+    background-color: #211d50;
+    padding: 30px 10px;
+    text-align: center;
+
+}
+.kerassentials-order-heading h1{
+    font-size: 2rem;
+    color: #fff;
+    
+
+}
+.kerassentials-order-box{
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+     padding: 80px 10px;
+}
+
+
+.kerassentials-order-details{
+    border: #c1c4ca 3px solid;
+    padding: 0px 30px;
+    border-radius: 20px;
+    transition: transform 0.3s;
+
+
+}
+.kerassentials-order-bottles{
+    padding: 50px 0px 30px 0px;
+}
+
+.kerassentials-order-bottles h1{
+    font-size: 2.5rem;
+    color: #6b65a9;
+}
+.kerassentials-order-bottles p{
+    font-size: 1.5rem;
+    padding: 10px 0px;
+
+}
+
+.kerassentials-bottle-images img{
+    max-height: 240px;
+
+}
+
+.kerassentials-bottle-price{
+    padding: 15px 0px;
+}
+
+
+.kerassentials-bottle-price img{
+    max-height: 66px;
+    
+}
+
+.kerassentials-order-buynow{
+    padding: 15px 0px;
+}
+
+.kerassentials-order-buynow img{
+    max-height: 80px;
+
+}
+
+.kerassential-total-price {
+    padding: 15px 0px;
+}
+
+.kerassential-total-price del{
+    text-decoration: line-through;
+}
+
+.kerassential-total-price p{
+    font-size: 1.5rem;
+}
+
+.kerassentials-cards img{
+    max-height: 41px;
+
+}
+.kerassentials-freeshipping{
+    padding: 5px 0px 60px 0px;
+}
+
+.kerassentials-freeshipping p{
+    font-size: 1.2rem;
+}
+
+.kerassentials-middle{
+    background-color: #f9f8da;
+    border: #17214c 3px solid;
+}
+
+.kerassentials-middle h1{
+    color: #211d50;
+}
+
+.end-bottle h1{
+    color: #211d50;
+}
+
+.kerassentials-order-details:hover{
+    transform: scale(1.03);
+
+}
+
+.kerassentials-customer-says{
+    text-align: center;
+
+}
+
+.kerassentials-customer-says p{
+    font-size: 1.7rem;
+    padding: 0px 0px 15px 0px;
+
+}
+
+.kerassentials-customer-say-image{
+    padding: 0px 0px 10px 0px;
+}
+
+
+.kerassentials-customer-say-image img{
+     max-height: 40px;
+    
+}
+
+.kerassentials-moneyback-bg{
+    position: top center;
+    background: no-repeat;
+    height: 570px;
+    width: auto;
+
+    background-image: url("../images/kerassentials-guarantee-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+    
+}
+
+.kerassentials-moneyback-info{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #fff;
+    width: 90%;
+    margin: auto;
+    padding: 70px;
+}
+
+
+.moneyback-image img{
+    max-height: 210px;
+}
+
+.kerassentials-moneyback-details{
+    padding: 30px 25px 30px 25px;
+}
+
+
+
+.kerassentials-moneyback-details h1{
+    font-size: 2.53rem;
+    
+}
+
+.kerassentials-moneyback-details p{
+    padding-top: 15px;
+    font-size: 1.5rem;
+    line-height: 2.2rem;
+}
+
+
 
 

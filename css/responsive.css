@@ -134,17 +134,56 @@
 
 }
 
-
-
 .kerassentials-reviewone{
   width: 95%;
   
 }
 
+.kerassentials-review-image{
+  display: none;
+}
+
+
+/*  */
+.kerassentials-order-heading h1{
+  font-size: 1.5rem;
+}
+
+.kerassentials-order-details{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 95%;
+  margin: auto;
+  padding: 10px 0px 10px 0px;
+  flex-wrap: nowrap;
+  margin-top: 15px;
+}
+
+.kerassentials-order-bottles {
+  padding: 0px;
+}
+.kerassentials-order-bottles h1{
+  font-size: 1.3rem;
+}
+.kerassentials-order-bottles p{
+  font-size: 1.2rem;
+}
 
 
 
+.kerassentials-bottle-images img{
+  max-height: 200px;
+}
 
+
+.kerassentials-order-buynow img{
+  max-height: 70px;
+}
+.kerassentials-order-box {
+  display: inline;
+  
+}
 
 
 
@@ -160,9 +199,7 @@
     padding: 30px 5px 30px 5px;
  
   }
-  
-
-  
+ 
 .wk-left p{
   padding-left: 0px;
 }
@@ -202,6 +239,55 @@
 
 
 
+.kerassentials-bottle-images img{
+  max-height: 130px;
+}
+
+
+.kerassentials-order-buynow img{
+  max-height: 50px;
+}
+.kerassentials-cards img{
+  max-height: 30px;
+}
+.kerassentials-order-heading h1{
+  font-size: 1.4rem;
+}
+
+
+
+
+
+
+}
+
+
+
+/*  Width 390px  */
+
+@media (max-width: 390px) {
+
+  .kerassentials-bottle-images img{
+    max-height: 100px;
+  }
+   
+  .kerassentials-order-buynow img{
+    max-height: 40px;
+  }
+  
+  .kerassentials-bottle-price img{
+    max-height: 35px;
+  }
+  .kerassentials-cards img{
+    max-height: 25px;
+  }
+.kerassential-total-price{
+  padding: 2px;
+
+}
+.kerassential-total-price p{
+  font-size: 1.2rem;
+}
 
 
 }
