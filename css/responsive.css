@@ -79,9 +79,13 @@
 
 .wk-right img{
     margin-top: 30px;
-    width: 100%;
+    max-height: 170px;
    
 }
+.wk-left h1{
+  font-size: 2rem;
+}
+
 .wk-left p{
   padding-left: 10px;
 }
@@ -186,6 +190,79 @@
 }
 
 
+.kerassentials-moneyback-bg{
+  height: 670px;
+
+
+}
+
+.kerassentials-moneyback-info{
+  display: inline;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+}
+
+
+.moneyback-image img{
+    max-height: 170px;
+}
+
+
+.kerassentials-moneyback-details h1{
+  font-size: 2rem;
+  
+}
+
+.kerassentials-moneyback-details p{
+  padding-top: 10px;
+  font-size: 1.1rem;
+  line-height: 2.2rem;
+}
+
+
+.cirtification-image{
+  padding: 40px 0px 40px 0px;
+
+}
+.cirtification-image img{
+  max-height: 120px;
+ 
+}
+
+
+.kerassentials-bottle-image img{
+  max-height: 660px;
+
+}
+
+
+.kerassentials-faq-heading h1{
+  font-size: 2rem;
+    padding: 50px 0px 10px 0px;
+}
+
+.kerassentials-asked h2{
+  font-size: 1.5rem;
+  padding: 15px 20px 10px 20px;
+
+}
+
+.kerassentials-asked p{
+font-size: 1.3rem;
+padding: 2px 55px 5px 55px;
+
+
+}
+
+
+
+
+
+
+
+
 
  
 }
@@ -223,21 +300,19 @@
 }
 
 .kerassentials-specification-discription h1{
-  font-size: 2.3rem;
+  font-size: 2rem;
   text-align: center;
   padding-bottom: 2rem;
 }
 
 .kerassentials-list-discription p {
   padding: 0px;
+  font-size: 1rem;
 }
 
 .kerassentials-review-image{
   display: none;
 }
-
-
-
 
 .kerassentials-bottle-images img{
   max-height: 130px;
@@ -253,6 +328,51 @@
 .kerassentials-order-heading h1{
   font-size: 1.4rem;
 }
+.kerassentials-customer-say-image img{
+  max-height: 30px;
+}
+
+.kerassentials-customer-says p{
+  font-size: 1.3rem;
+}
+
+.cirtification-image{
+  padding: 30px 0px 30px 0px;
+
+}
+
+.cirtification-image img{
+  max-height: 90px;
+ 
+}
+
+.kerassentials-bottle-image img{
+  max-height: 380px;
+
+}
+
+.kerassentials-faq-heading h1{
+  font-size: 1.5rem;
+    padding: 50px 0px 10px 0px;
+}
+
+.kerassentials-asked h2{
+  font-size: 1.1rem;
+  padding: 15px 20px 10px 20px;
+
+}
+
+.kerassentials-asked p{
+font-size: 1rem;
+padding: 2px 10px 5px 10px;
+
+
+}
+
+
+
+
+
 
 
 
@@ -288,6 +408,30 @@
 .kerassential-total-price p{
   font-size: 1.2rem;
 }
+
+.kerassentials-moneyback-bg{
+  height: 810px;
+}
+
+
+.cirtification-image img{
+  max-height: 60px;
+ 
+}
+
+
+
+.kerassentials-bottle-image img{
+  max-height: 280px;
+
+}
+
+
+
+
+
+
+
 
 
 }

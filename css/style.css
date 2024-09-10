@@ -571,6 +571,7 @@ margin: 3rem 0rem 0rem 0rem;
      max-height: 40px;
     
 }
+/*  */
 
 .kerassentials-moneyback-bg{
     position: top center;
@@ -596,9 +597,10 @@ margin: 3rem 0rem 0rem 0rem;
     align-items: center;
     justify-content: space-evenly;
     background-color: #fff;
-    width: 90%;
+    width: 92%;
     margin: auto;
-    padding: 70px;
+    padding: 50px 70px;
+    border-radius: 9px;
 }
 
 
@@ -610,8 +612,6 @@ margin: 3rem 0rem 0rem 0rem;
     padding: 30px 25px 30px 25px;
 }
 
-
-
 .kerassentials-moneyback-details h1{
     font-size: 2.53rem;
     
@@ -621,7 +621,143 @@ margin: 3rem 0rem 0rem 0rem;
     padding-top: 15px;
     font-size: 1.5rem;
     line-height: 2.2rem;
+
 }
+
+.kerassentials-cirtification{
+    background-color: #17214c;
+
+}
+
+.cirtification-image{
+  text-align: center;
+    padding: 50px 0px 50px 0px;
+
+}
+
+
+.cirtification-image img{
+    max-height: 160px;
+    
+}
+
+/* */
+
+.kerassentials-faq-heading h1{
+    font-size: 2.5rem;
+    text-align: center;
+    padding: 70px 0px 30px 0px;
+}
+
+.kerassentials-asked h2{
+    font-size: 1.8rem;
+    padding: 25px 50px 10px 50px;
+
+}
+
+.kerassentials-asked p{
+font-size: 1.6rem;
+padding: 5px 85px 10px 85px;
+line-height: 2.2rem;
+font-weight: 200;
+font-size: "Roboto", "Helvetica Neue", Arial, sans-serif;
+color: #6a6363;
+
+}
+
+.kerassentials-bottle-image{
+    text-align: center;
+
+
+}
+
+.kerassentials-bottle-image img{
+    max-height: 860px;
+
+}
+
+.kerassentials-bottle-info{
+    padding-bottom: 50px;
+
+}
+.kerassentials-scientific-referance-section{
+    background-color: #f0f0f0;
+    padding-top: 20px;
+    margin-top: 20px;
+
+}
+
+
+.kerassential-scientific-referance-title h1{
+    font-size: 1.82rem;
+    text-align: center;
+    font-weight: 300;
+    margin: 30px 0px 50px 0px;
+
+}
+
+.kerassentials-scientific-referance-logo{
+    text-align: center;
+
+}
+
+.kerassentials-scientific-referance-logo img{
+    max-height: 70px;
+
+
+}
+
+
+.kerassentials-scientific-referance-detials{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+.kerassentials-scientific-referance-detials p{
+    text-align: justify;
+    font-size: 0.90rem;
+    line-height: 1.4rem;
+}
+
+.kerassentials-scientific-referacne-left{
+    padding: 55px 10px 5px 30px;
+    width: 50%;
+}
+
+.kerassentials-scientific-referacne-right{
+    padding: 55px 50px 5px 15px;
+    width: 50%;
+}
+
+
+.kerassentials-footer-info{
+    background-color: #17214c;
+    margin-top: 30px;
+    
+}
+
+
+.footer-info-list {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 40px 30px 40px 30px;
+}
+.kerassentials-footer-info ul li a{
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
