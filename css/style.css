@@ -29,9 +29,25 @@
 
 /*  */
 
+.burger-line{
+    height: 2px;
+    width: 30px;
+    color: #fff;
+    background-color: #fff;
+    margin-bottom: 5px;
+}
+.burger{
+    display: none;
+    position: absolute;
+    top: 2.2rem;
+    right: 2rem;
+}
+
+
 .header-section{
     background-color: #211d50;
    padding: 0px 15px 0px 15px;
+   position: relative;
 }
 
 
@@ -77,6 +93,7 @@
     background-color: rgb(234, 59, 59);
     padding: 11px 22px;
     border-radius: 7px;
+    text-align: center;
 }
 
 .order-now a{
