@@ -22,11 +22,41 @@
 /*  */
 
 @media (max-width: 1023px) {
+
+  .burger{
+    display: block;
+}
+.header-section{
+  height: 100vh;
+}
+
+.product-logo {
+  display: inline;
+}
+
     
    .kera-order-info{
     display: inline;
-    margin-top: 30px;
+     
+    
    }
+
+   
+   .kera-order-info ul li{
+    margin-top: 30px;
+    text-align: center;
+  
+  }
+  
+  .order-now{
+    width: 153px;
+    font-size: 1.3rem;
+    margin: auto;
+
+  }
+
+
+
    .order-list{
     display: inline;
    }
